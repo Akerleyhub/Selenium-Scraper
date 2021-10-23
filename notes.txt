@@ -1,0 +1,6 @@
+Create and activate virtual env(always forget these)
+py -m venv venv
+.\venv\Scripts\activate
+
+Good place to start. Shows beutiful soup and selenium.
+https://learning.oreilly.com/library/view/automate-the-boring/9781457189906/ch11.html#starting_a_selenium-controlled_browser
